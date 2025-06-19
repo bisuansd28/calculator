@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="calc_button_style">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/black</item>
+        <!-- 背景色変更 -->
+        <item name="android:backgroundTint">@color/calc_back</item>
+    </style>
+    <style name="num_button_style">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/black</item>
+        <!-- 背景色変更 -->
+        <item name="android:backgroundTint">@color/num_back</item>
+    </style>
+</resources>
